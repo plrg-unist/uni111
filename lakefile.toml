@@ -1,0 +1,12 @@
+name = "uni111"
+version = "0.1.0"
+defaultTargets = ["Proofs", "Python", "SqrtLean"]
+
+[[lean_lib]]
+name = "Proofs"
+
+[[lean_lib]]
+name = "SqrtLean"
+
+[[lean_lib]]
+name = "Python"
